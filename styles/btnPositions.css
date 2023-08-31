@@ -1,0 +1,38 @@
+.bridge{
+    left: calc(100vw - 78%);
+    top: calc(100vh - 34%);
+}
+
+.homeOne{
+    left: calc(100vw - 74%);
+    top: calc(100vh - 73%);
+}
+
+.mainTown{
+    left: calc(100vw - 64%);
+    top: calc(100vh - 55%);
+} 
+.stationTown{
+    left: calc(100vw - 41%);
+    top: calc(100vh - 62%);
+}
+
+.columnTown{
+    left: calc(100vw - 45%);
+    top: calc(100vh - 40%);
+}
+
+.townBySea{
+    left: calc(100vw - 40%);
+    top: calc(100vh - 22%);
+}
+
+.townByStation{
+    left: calc(100vw - 32%);
+    top: calc(100vh - 37%);
+}
+.towmByStationTwo{
+    left: calc(100vw - 17%);
+    top: calc(100vh - 31%);
+} 
+
